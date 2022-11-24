@@ -1,0 +1,27 @@
+hr{
+    
+    background-color: blue;
+    color: blue;
+
+}
+table{
+    border-collapse: collapse;
+}
+table,th,td{
+    border:2px solid black;
+    padding:10px;
+}
+
+ /* ul{
+  display:flex;
+ }
+ li{
+    list-style-type: none;
+    margin-left:150px;
+    
+ } */
+ a{
+    color:rgb(110, 13, 13);
+    font-size: x-large;
+    text-decoration: none;
+ }
